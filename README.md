@@ -1,2 +1,2 @@
 # Sistema-de-lavado
-Bodigo y diagrama del proyecto.
+Codigo y diagrama del proyecto.
